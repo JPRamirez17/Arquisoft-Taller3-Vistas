@@ -17,7 +17,9 @@
 <img src="images/eliminarMedida7NoEncontrada.png" alt="Eliminar medida 7 pero no se encuentra">
 
 ### Actualizar medida por id
+Antes:
 <img src="images/consultarMedida10.png" alt="Consultar Medida 10">
+Después:
 <img src="images/actualizarMedida10.png" alt="Actualizar Medida 10">
 <img src="images/actualizarMedida7NoEncontrada.png" alt="Actualizar medida 7 pero no se encuentra">
 
