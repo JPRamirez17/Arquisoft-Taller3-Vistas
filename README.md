@@ -2,10 +2,10 @@
 ## Taller 3 - Vistas
 ## Juan Pablo Ramirez Ramirez - j.ramirez28 - 201921728
 
-## Consultar lista de medidas
+### Consultar lista de medidas
 
-## Consultar medida por id
+### Consultar medida por id
 
-## Borrar medida por id
+### Borrar medida por id
 
-## Actualizar medida por id
+### Actualizar medida por id
