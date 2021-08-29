@@ -1,6 +1,7 @@
 # Arquitectura y Diseño de SW ISIS2503_03
 ## Taller 3 - Vistas
 ## Juan Pablo Ramirez Ramirez - j.ramirez28 - 201921728
+## Juan Pablo Galvis Rueda - j.galvisr - 201922278
 
 <img src="images/urlsMedidas.png" alt="Urls Medidas">
 
